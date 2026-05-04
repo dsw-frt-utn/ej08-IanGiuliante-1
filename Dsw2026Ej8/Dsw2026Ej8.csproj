@@ -8,9 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Problema 5\" />
-    <Folder Include="Problema 3\" />
-    <Folder Include="Problema 2\" />
+    <Folder Include="Problema 6\" />
   </ItemGroup>
 
 </Project>
