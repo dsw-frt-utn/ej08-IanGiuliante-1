@@ -4,7 +4,13 @@ using System.Text;
 
 namespace Dsw2026Ej8.Problema_3
 {
-    internal class Product
+    public class Product
     {
+        public string _description { get; set; }
+
+        public string SetDescription(string description) {
+            _description = description;
+            return _description;
+        }
     }
 }
