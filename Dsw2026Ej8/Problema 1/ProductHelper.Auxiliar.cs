@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Dsw2026Ej8.Problema_1
 {
-    internal class ProductHelperAuxiliar
+    public partial class ProductHelper
     {
+        const string FormatoMoneda = "C2";
     }
 }
